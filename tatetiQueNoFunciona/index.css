@@ -1,0 +1,14 @@
+body {
+    background: aqua;
+}
+
+.el_pepe{
+    width: 400px;
+}
+
+.tablero {
+    background: black;
+    height: 100px;
+    width: 100px;
+}
+
